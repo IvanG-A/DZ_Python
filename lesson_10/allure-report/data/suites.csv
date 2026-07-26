@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Тест проверяет, что итоговая сумма заказа равна $58.29.","13722","Проверка итоговой суммы заказа","lesson_10.tests","2026-07-26","passed","2026-07-26","","test_shop","",""
+"Тест проверяет, что калькулятор корректно вычисляет сумму с учётом задержки.","54563","Вычисление 7 + 8 с задержкой 45 секунд","lesson_10.tests","2026-07-26","passed","2026-07-26","","test_calculator","",""
