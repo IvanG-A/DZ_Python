@@ -1,1 +1,0 @@
-[{"uid":"592cc11deb814f71","name":"Проверка итоговой суммы заказа","time":{"start":1785071916022,"stop":1785071929744,"duration":13722},"status":"passed","severity":"critical"},{"uid":"de2fe3d60484ee5a","name":"Вычисление 7 + 8 с задержкой 45 секунд","time":{"start":1785071861449,"stop":1785071916012,"duration":54563},"status":"passed","severity":"critical"}]
